@@ -1,0 +1,6 @@
+{
+  "name": "Tierra Atelier - Marroquinería & Joyería B2B / Boutique",
+  "description": "Plataforma integral de venta mayorista y boutique para Tierra Atelier: catálogo de cueros curtidos al vegetal, validación de pedidos B2B, rotulado oficial de despacho, trazabilidad satelital y motor de descuentos escalonados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
